@@ -1,3 +1,26 @@
+# Toronto Weather Forecast
+
+This project is a Next.js application that provides real-time weather information and forecasts for Toronto, Canada. It utilizes the OpenWeatherMap API to fetch current weather data and a 5-day forecast.
+
+## Features
+
+- Display current weather conditions for Toronto
+- Show a 5-day weather forecast
+- Responsive design for various screen sizes
+- Server-side API routes to securely handle API requests
+
+## Technologies Used
+
+- Next.js 13+ (App Router)
+- React
+- TypeScript
+- CSS Modules
+- OpenWeatherMap API
+
+## Environment Setup
+
+To run this project locally, you need to set up the following environment variables in a `.env.local` file:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
